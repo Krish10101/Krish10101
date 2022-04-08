@@ -3,7 +3,6 @@
 <h3 align="center">A passionate web developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krish10101&label=Profile%20views&color=0e75b6&style=flat" alt="krish10101" /> </p>
 
 
 - 🔭 I’m currently working on **Netflix Clone**
