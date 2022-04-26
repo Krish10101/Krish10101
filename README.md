@@ -5,9 +5,9 @@
 
 
 
-- 🔭 I’m currently working on **Netflix Clone**
+- 🔭 I’m currently working on **React.js and Node.js**
 
-- 🌱 I’m currently learning **React native**
+- 🌱 I’m currently learning **everything**
 
 - 📫 How to reach me? => **krishnapals1010@gmail.com, +353-894038901**
 
