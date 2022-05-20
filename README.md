@@ -7,7 +7,7 @@
 
 - 🔭 I’m working on creating a travel package booking website using **RESTful API**
 
-- 🌱 I’m currently learning **React.js and Node.js**
+- 🌱 I’m currently learning **React.js**
 
 - 📫 How to reach me? => **krishnapals1010@gmail.com, +353-894038901**
 
