@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m working on creating a travel package booking website using **RESTful API**
+- 🔭 I’m working on creating a travel package booking website using **RESTful API** in **Python**.
 
 - 📫 How to reach me? => **krishnapals1010@gmail.com, +353-894038901**
 
