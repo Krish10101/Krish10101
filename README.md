@@ -1,13 +1,10 @@
 ![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)
 <h1 align="center">Hi 👋, I'm Krishnapal Singh</h1>
-<h3 align="center">A passionate web developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer.gif">
 
 
 
 - 🔭 I’m working on creating a travel package booking website using **RESTful API**
-
-- 🌱 I’m currently learning **React.js**
 
 - 📫 How to reach me? => **krishnapals1010@gmail.com, +353-894038901**
 
